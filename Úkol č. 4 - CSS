@@ -1,0 +1,89 @@
+body{
+background-color: rgb(255, 208, 181);
+   }
+   h1{
+       font-style: italic;
+       color: rgb(133, 182, 222);
+       font-family: cursive;
+       text-decoration: underline;
+   }
+   
+   h2{
+       font-family: cursive;
+       color: rgb(25, 143, 4);
+       text-decoration: underline;
+   }
+   #uvod{
+    color: rgb(76, 92, 217);
+    font-weight: normal;
+    text-align: left;
+    margin: 8px;
+    line-height: 25px;
+    width: 600px;
+    margin-left: 5px;
+    text-transform: uppercase;
+    padding: 1%;
+    border: solid white 2px;
+    float: none;
+    text-align: justify;
+    
+   }
+  .zdroj{
+      font-size:12px;
+  }
+ .autor{
+       font-size: 16px;
+   }
+
+.první{
+    color: rgb(76, 92, 217);
+    font-weight: normal;
+    text-align: left;
+    margin: 8px;
+    line-height: 25px;
+    width: 600px;
+    margin-left: 5px;
+    text-transform: uppercase;
+    padding: 1%;
+    border: solid white 2px;
+    float: none;
+    text-align: justify;
+    }
+  #druhý{
+     color: rgb(76, 92, 217);
+    font-weight: normal;
+    text-align: left;
+    margin: 8px;
+    line-height: 25px;
+    width: 600px;
+    margin-left: 5px;
+    text-transform: uppercase;
+    padding: 1%;
+    border: solid white 2px;
+    float: none;
+    text-align: justify;  
+  }
+  #třetí{
+       color: rgb(240, 9, 44);
+    font-weight: normal;
+    text-align: left;
+    margin: 10px;
+    line-height: 25px;
+    width: 600px;
+    margin-left: 5px;
+    text-transform: uppercase;
+    padding: 2%;
+    border: solid white 2px;
+    float: none;
+    text-align: justify; 
+  }
+#konec{
+   color: rgb(0, 0, 0);
+    font-weight: normal;
+    text-align: left;
+    margin: 10px;
+    width: 700px;
+    text-transform: uppercase;
+    text-align: justify;
+    font-weight: bold;
+}
